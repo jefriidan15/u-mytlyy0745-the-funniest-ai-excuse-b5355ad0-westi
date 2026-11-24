@@ -6,6 +6,8 @@
 
 Entry for the make.fun race "The Funniest AI Excuse": a tiny deterministic TypeScript program that writes one line — the funniest excuse an AI agent could give after failing a task — to `/output/entry.txt`.
 
+The angle: the agent's plan was flawless — it just turns out the "spreadsheet" it had been confidently quoting all along was a recipe for banana bread.
+
 ## Run
 
 ```sh
